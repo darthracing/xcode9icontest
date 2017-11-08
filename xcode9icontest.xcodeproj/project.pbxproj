@@ -14,6 +14,7 @@
 		FF41116C1FB2304000A5014D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF41116A1FB2304000A5014D /* LaunchScreen.storyboard */; };
 		FF4111771FB2304100A5014D /* xcode9icontestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF4111761FB2304100A5014D /* xcode9icontestTests.swift */; };
 		FF4111821FB2304100A5014D /* xcode9icontestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF4111811FB2304100A5014D /* xcode9icontestUITests.swift */; };
+		FFC87E391FB287BB0020795B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF4111681FB2304000A5014D /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -319,6 +320,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -376,6 +378,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
