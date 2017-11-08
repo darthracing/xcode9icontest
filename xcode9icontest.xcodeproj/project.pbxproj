@@ -10,10 +10,10 @@
 		FF4111621FB2304000A5014D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF4111611FB2304000A5014D /* AppDelegate.swift */; };
 		FF4111641FB2304000A5014D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF4111631FB2304000A5014D /* ViewController.swift */; };
 		FF4111671FB2304000A5014D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF4111651FB2304000A5014D /* Main.storyboard */; };
-		FF4111691FB2304000A5014D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF4111681FB2304000A5014D /* Assets.xcassets */; };
 		FF41116C1FB2304000A5014D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF41116A1FB2304000A5014D /* LaunchScreen.storyboard */; };
 		FF4111771FB2304100A5014D /* xcode9icontestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF4111761FB2304100A5014D /* xcode9icontestTests.swift */; };
 		FF4111821FB2304100A5014D /* xcode9icontestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF4111811FB2304100A5014D /* xcode9icontestUITests.swift */; };
+		FFC87E391FB287BB0020795B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF4111681FB2304000A5014D /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -233,7 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FF41116C1FB2304000A5014D /* LaunchScreen.storyboard in Resources */,
-				FF4111691FB2304000A5014D /* Assets.xcassets in Resources */,
+				FFC87E391FB287BB0020795B /* Assets.xcassets in Resources */,
 				FF4111671FB2304000A5014D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
